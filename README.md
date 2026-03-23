@@ -1,37 +1,67 @@
-# Welcome to Vamsi's GitHub Repository
+<h1 align="center">Hi 👋, I'm Vamsi</h1>
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | CI/CD | Python</h3>
 
-👋 Hi there! I'm Vamsi, an entry-level IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.
+---
 
-## 🔧 Skills
+## 🙋‍♂️ About Me
+- 🔭 Currently working on **AWS & DevOps Projects**
+- 🌱 Learning **Advanced Kubernetes & Cloud Automation**
+- 💼 Internship at **Rise n Shine Technologies**
+- 💬 Ask me about **AWS, Docker, Kubernetes, CI/CD**
+- 📫 Reach me at: **vvamsidev07@gmail.com**
 
-- **Programming Languages:** Python
-- **AWS Services:** Lambda, CodeBuild, CodeDeploy, CodePipeline, Elastic Beanstalk, ECS, EKS, Terraform, CloudFront, DynamoDB
-- **Containerization:** Docker, Kubernetes
-- **DevOps:** Continuous Integration/Continuous Deployment (CI/CD), Automation, Jenkins, Ansible, Tomcat, Maven, Sonarqube
+---
 
-## 🛠️ Projects
+## 🛠️ Skills
 
-### Project 1: [Project Name 1](link-to-repo)
-   Description of the project and your role in it.
+### 💻 Programming
+- Python
 
-### Project 2: [Project Name 2](link-to-repo)
-   Description of the project and your role in it.
+### ☁️ Cloud & AWS
+- Lambda, CodeBuild, CodeDeploy, CodePipeline  
+- Elastic Beanstalk, ECS, EKS  
+- CloudFront, DynamoDB
 
-## 📚 Education
+### 🐳 Containers & Orchestration
+- Docker  
+- Kubernetes  
 
-- Bachelor of Computer Applications (BCA) in [computera] - Krishna University, 2019
+### ⚙️ DevOps Tools
+- Jenkins  
+- Ansible  
+- Maven  
+- Tomcat  
+- SonarQube  
+- CI/CD Pipelines  
 
-## 🌱 Interests
+---
 
-I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
+## 📊 GitHub Stats
 
-## 📫 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvamsidev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvamsidev&theme=radical" />
+</p>
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/devopsvamsi)
+---
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have questions or just want to connect!
+## 🚀 Projects
 
-Happy coding! 🚀
+### 🔹 Project 1: AWS CI/CD Pipeline
+- Built automated CI/CD pipeline using Jenkins & AWS
+- Reduced deployment time significantly
 
-## My GitHub Stats :rocket: :rocket:
-[![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvamsidev&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 Project 2: Dockerized Application
+- Containerized Python application using Docker
+- Deployed using Kubernetes (EKS)
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/vvamsidev
+- 💻 GitHub: https://github.com/vvamsidev
+
+---
+
+⭐️ From [Vamsi](https://github.com/vvamsidev)
